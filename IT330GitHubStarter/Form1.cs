@@ -22,6 +22,7 @@ namespace IT330GitHubStarter
             lblMessage.Text = "Hello GitHub World!!".ToUpper();
             // this is a comment about this code
             // more comments
+            // still more comments
         }
     }
 }
