@@ -20,6 +20,7 @@ namespace IT330GitHubStarter
         private void button1_Click(object sender, EventArgs e)
         {
             lblMessage.Text = "Hello GitHub World!!".ToUpper();
+            // this is a comment about this code
         }
     }
 }
